@@ -1,8 +1,10 @@
+# Contact-form-cfdb8
+
+Fork of CFDB7 to allow non-administrator access
+
 ## Contact Form 7 Database Addon - CFDB7
 
-
 Save and manage Contact Form 7 messages. Never lose important data. It is lightweight contact form 7 db plugin
-
 
 ### Description
 
